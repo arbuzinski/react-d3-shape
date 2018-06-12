@@ -3,7 +3,6 @@
 import {
   default as React,
   Component,
-  PropTypes,
 } from 'react';
 
 import D3Shape from 'd3-shape'
