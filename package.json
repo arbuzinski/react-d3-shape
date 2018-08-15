@@ -39,11 +39,11 @@
     "webpack": "^1.12.2",
     "webpack-dev-middleware": "^1.5.1",
     "webpack-dev-server": "^1.11.0",
-    "webpack-hot-middleware": "^2.9.0"
-  },
-  "dependencies": {
+    "webpack-hot-middleware": "^2.9.0",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
+  },
+  "dependencies": {
     "d3": "^3.5.6",
     "d3-scale": "^0.6.4",
     "d3-shape": "^0.5.1",
