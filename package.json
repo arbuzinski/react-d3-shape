@@ -46,9 +46,11 @@
     "react-dom": "^0.14.7"
   },
   "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
     "d3": "^3.5.6",
     "d3-scale": "^0.6.4",
     "d3-shape": "^0.5.1",
-    "react-d3-core": "incadoi/react-d3-core#master"
+    "react-d3-core": "arbuzinski/react-d3-core#master"
   }
 }
